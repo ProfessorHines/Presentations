@@ -1,0 +1,11 @@
+body {
+  font-family: 'Droid Serif';
+  line-height: 1.4;
+}
+
+h1, h2, h3 {
+  font-family: 'Yanone Kaffeesatz';
+  font-weight: normal;
+  margin-bottom: 0;
+}
+
