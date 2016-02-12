@@ -3,7 +3,7 @@ class: middle, center
 # Institutional Context: Congress
 
 ---
-class: middle, center
+class: middle
 
 ## Summary
 
@@ -46,14 +46,9 @@ class: middle, center
 
 ## Powers of Congress
 
-. The War Powers Act has been particularly successful because Congress has not pushed the
-issue, but Congress has several other tools to enforce its foreign policy powers.
-1. Congress can use its general legislative powers to pass non-binding resolutions stating
-its opinion or laws requiring certain actions including barnacles (foreign policy riders).
-2. Congress’s most potent tool is its budgetary powers. It can choose to fund or defund
-foreign policy priorities and sets the budget for the agencies that make foreign policy.
-3. Congress has the authority to conduct oversight of any executive action and has
-established a number of reporting requirements including presidential findings.
+1. General legislative powers
+2. Budgetary powers
+3. Oversight and reporting requirements
 
 ---
 
