@@ -1,6 +1,9 @@
+class: middle, center
+
 # Institutional Context: Congress
 
 ---
+class: middle, center
 
 ## Summary
 
@@ -11,7 +14,6 @@
 ## Learning Objectives
 
 * List the constitutional powers of Congress and the President in foreign policy.
-
 * Explain the War Powers Act.
 * Summarize the methods Congress uses to enforce its foreign policy powers.
 * Describe the relationship between Congress and the President.
@@ -43,6 +45,7 @@
 ---
 
 ## Powers of Congress
+
 . The War Powers Act has been particularly successful because Congress has not pushed the
 issue, but Congress has several other tools to enforce its foreign policy powers.
 1. Congress can use its general legislative powers to pass non-binding resolutions stating
@@ -54,7 +57,7 @@ established a number of reporting requirements including presidential findings.
 
 ---
 
-##“Pennsylvania Avenue diplomacy defined by Congressional reaction to the President.
+## “Pennsylvania Avenue diplomacy" defined by Congressional reaction to the President.
 
 2. Congress seems to have four moods about foreign policy: highly competitive with the President, disengaged, supportive of the president, and strategic.
 
