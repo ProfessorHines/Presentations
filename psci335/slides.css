@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Lato);
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
 
 body {
   font-family: 'Lato';
@@ -6,7 +7,7 @@ body {
 }
 
 h1, h2, h3 {
-  font-family: 'Yanone Kaffeesatz';
+  font-family: 'Montserrat';
   font-weight: normal;
   margin-bottom: 0;
 }
