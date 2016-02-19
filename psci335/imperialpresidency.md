@@ -4,6 +4,21 @@ class: middle, center
 
 ---
 
+class: middle
+
+## Learning Objectives
+
+* Evaluate the Bush administration using the concept of the Imperial Presidency.
+* Assess U.S. grand strategy in the age of terrorism.
+
+---
+
+class: middle, center
+
+> “My argument then, as now, was that the American Constitution intends a strong presidency within an equally strong system of accountability. My title referred to what happens when the constitutional balance between presidential power and presidential accountability is upset in favor of presidential power." 
+
+---
+
 ## QFocus #1
 
 .center[![Default-aligned image](http://images.csmonitor.com/csm/2014/01/obamawebcover.jpg?alias=standard_600x400)]
