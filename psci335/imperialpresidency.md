@@ -1,6 +1,6 @@
 class: middle, center
 
-# Imperial Presidency
+# The Imperial Presidency
 
 ---
 
