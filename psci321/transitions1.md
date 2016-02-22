@@ -1,3 +1,4 @@
+background-image: url(https://docs.google.com/presentation/d/1gySL-5_Znpol1VhygF1QF3GBghFPW6kwYP2S8XHqhLg/viewpage?pageid=gc6fa3c898_0_5&rev=1&hmac=ALf4PZ78CAq-ZOFDuF67ocUvlFCA5Zt1Nw&w=960&h=540&format=png&showText=0)
 class: middle, center
 
 # DEMOCRATIC TRANSITIONS IN CENTRAL EUROPE
