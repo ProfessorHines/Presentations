@@ -4,6 +4,8 @@
 body {
   font-family: 'Lato';
   line-height: 1.4;
+  background: #000;
+  background-image: url(https://docs.google.com/presentation/d/1gySL-5_Znpol1VhygF1QF3GBghFPW6kwYP2S8XHqhLg/viewpage?pageid=gc6fa3c898_0_5&rev=1&hmac=ALf4PZ78CAq-ZOFDuF67ocUvlFCA5Zt1Nw&w=960&h=540&format=png&showText=0)
 }
 
 h1, h2, h3 {
@@ -13,7 +15,14 @@ h1, h2, h3 {
 }
 
 .remark-slide-content h1 { font-size: 5em; }
-.remark-slide-content h2 { font-size: 2em; }
+.remark-slide-content h2 { font-size: 2em; background-color: #FFCC00; }
 .remark-slide-content h3 { font-size: 1.6em; }
 
 .remark-slide-content li { font-size: 2 em; }
+
+blockquote {
+  padding: 0 15px;
+  color: #000;
+  border-left: 10px solid #000;
+  font-size: 50px;
+}
