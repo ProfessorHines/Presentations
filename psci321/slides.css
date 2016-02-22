@@ -17,3 +17,9 @@ h1, h2, h3 {
 .remark-slide-content h3 { font-size: 1.6em; }
 
 .remark-slide-content li { font-size: 2 em; }
+
+blockquote {
+  padding: 0 15px;
+  color: #000;
+  border-left: 4px solid #ddd;
+}
