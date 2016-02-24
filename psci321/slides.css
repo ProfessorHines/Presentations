@@ -24,6 +24,6 @@ blockquote {
   padding: 0 15px;
   color: #000;
   border-left: 10px solid #000;
-  font-size: 2em;
-  font-size: 2em; background-color: #d3d3d3;
+  font-size: 2em; 
+  background-color: #d3d3d3;
 }
