@@ -13,6 +13,7 @@ class: center, middle
 ## Structure
 
 1. The structuralist argument is that regimes collapse because they are not constructed properly. 
+
 --
 
 2. Regimes are like a software program that needs to be programmed to include ways to deal with failure modes.
@@ -50,7 +51,7 @@ class: center, middle
 
 ## Small-Group Exercise
 
->Examine the cases of regime change in Central and Eastern Europe between 1989-1992.
+> Examine the cases of regime change in Central and Eastern Europe between 1989-1992.
 
 1. Find at least five pieces of evidence each that support structural and functional causes for regime change?
 
