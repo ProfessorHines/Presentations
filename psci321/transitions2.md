@@ -4,17 +4,13 @@ class: center, middle
 
 ---
 
-## Structure vs. Function
-
----
-
 Class: center, middle
 
-### Do regimes collapse because of structural problems or because of functional deficiences?
+## Structure vs. Function: Do regimes collapse because of structural problems or because of functional deficiences?
 
 ---
 
-### Structure
+## Structure
 
 1. The structuralist argument is that regimes collapse because they are not constructed properly. 
 --
@@ -24,7 +20,7 @@ Class: center, middle
 
 ---
 
-### American Revolution: Failure of Structure
+## American Revolution: Failure of Structure
 
 1. "No Taxation without Representation": Britain taxed colonists without providing a say in the decision-making.
 
@@ -32,7 +28,7 @@ Class: center, middle
 
 ---
 
-### Function
+## Function
 
 1. The functionalist argument is that regimes collapse because they do not perform properly. 
 --
@@ -41,7 +37,7 @@ Class: center, middle
 
 ---
 
-### American Revolution: Failure of Function
+## American Revolution: Failure of Function
 
 1. A Parliament Divided: Tories and Whigs divided over how to govern colonies, leading to radical and changes and ineffective policies.
 
@@ -49,7 +45,7 @@ Class: center, middle
 
 ---
 
-### Small-Group Exercise
+## Small-Group Exercise
 
 >Examine the cases of regime change in Central and Eastern Europe between 1989-1992.
 
