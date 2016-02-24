@@ -6,7 +6,9 @@ class: center, middle
 
 class: center, middle
 
-## Structure vs. Function: Do regimes collapse because of structural problems or because of functional deficiences?
+## Structure vs. Function: 
+
+### Do regimes collapse because of structural problems or because of functional deficiences?
 
 ---
 
@@ -57,5 +59,4 @@ class: center, middle
 
 --
 
-2. Write an outline for a five paragraph essay that argues in favor of either the structural or
-functional theory of regime change. No equivocating :)
+2. Write an outline for a five paragraph essay that picks a side. No equivocating :)
