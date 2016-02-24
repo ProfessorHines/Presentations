@@ -16,11 +16,11 @@ Class: center, middle
 
 ### Structure
 
-1.\ The structuralist argument is that regimes collapse because they are not constructed properly. 
-
-3.\ Regimes are like a software program that needs to be programmed to include ways to deal with failure modes.
-
-4.\ If the software cannot handle an error, it shuts down (i.e., the regime changes).
+1. The structuralist argument is that regimes collapse because they are not constructed properly. 
+--
+2. Regimes are like a software program that needs to be programmed to include ways to deal with failure modes.
+--
+3. If the software cannot handle an error, it shuts down (i.e., the regime changes).
 
 ---
 
@@ -30,14 +30,14 @@ Class: center, middle
 
 2. Intolerable Acts and the Quebec Act: Parliament centralized control, leading to open rebellion.
 
-
 ---
 
 ### Function
 
 1. The functionalist argument is that regimes collapse because they do not perform properly. 
+--
 
-2.\In practice, this means that a regime fails to provide public goods or make effective decisions.
+2. In practice, this means that a regime fails to provide public goods or make effective decisions.
 
 ---
 
@@ -55,5 +55,7 @@ Class: center, middle
 
 1. Find at least five pieces of evidence each that support structural and functional causes for regime change?
 
-2.\ Write an outline for a five paragraph essay that argues in favor of either the structural or
+--
+
+2. Write an outline for a five paragraph essay that argues in favor of either the structural or
 functional theory of regime change. No equivocating :)
