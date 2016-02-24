@@ -4,7 +4,7 @@ class: center, middle
 
 ---
 
-Class: center, middle
+class: center, middle
 
 ## Structure vs. Function: Do regimes collapse because of structural problems or because of functional deficiences?
 
@@ -14,8 +14,11 @@ Class: center, middle
 
 1. The structuralist argument is that regimes collapse because they are not constructed properly. 
 --
+
 2. Regimes are like a software program that needs to be programmed to include ways to deal with failure modes.
+
 --
+
 3. If the software cannot handle an error, it shuts down (i.e., the regime changes).
 
 ---
