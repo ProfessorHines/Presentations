@@ -4,9 +4,9 @@ class: center, middle
 
 ---
 
-class: center
+class: middle
 
-## Summary
+.center[## Summary]
 
 >As the saying goes, “money makes the world go round.” Economic statecraft is the process of using money to achieve foreign policy objectives. The most important tools of economic statecraft are trade and monetary policy, tools that have become more effective in an era of a globalized economy.
 
@@ -29,14 +29,14 @@ class: center
 
 ## Negative Forms of Economic Statecraft 
 
-    1. Refusing to export (embargoes)
-    2. Refusing to import (boycotts)
-    3. Covert refusals to trade (blacklists)
-    4. Preclusive Buying
-    5. Deprivation of ownership (expropriation)
-    6. Punitive taxation
-    7. Aid suspensions
-    8. Asset freezes. 
+1. Refusing to export (embargoes)
+2. Refusing to import (boycotts)
+3. Covert refusals to trade (blacklists)
+4. Preclusive Buying
+5. Deprivation of ownership (expropriation)
+6. Punitive taxation
+7. Aid suspensions
+8. Asset freezes. 
 
 ---
 
