@@ -48,8 +48,7 @@ class: center, middle
 
 ## Western Balkans
 
---The Western Balkans is a term invented by the European Union to cover the states, mostly from the former Yugoslavia, that were
-deemed too unstable and undemocratic for membership. Politics in the region has been driven by ongoing external interventions.
+> The Western Balkans is a term invented by the European Union to cover the states, mostly from the former Yugoslavia, that were deemed too unstable and undemocratic for membership. Politics in the region has been driven by ongoing external interventions.
 
 ---
 ## Western Balkans != Central Europe: Three Hypothesis
