@@ -53,10 +53,8 @@ class: center, middle
 ---
 ## Western Balkans != Central Europe: Three Hypothesis
 
-1. Prior to World War I, the Western Balkans (with the exception of Croatia) were largely been under control of the Ottoman
-Turks leading to the idea that the political culture of the area is different than Central Europe.
+1. Prior to WWI, the Western Balkanswere largely been under control of the Ottoman Turks leading to the idea that the political culture of the area is different than Central Europe.
 
-2. The Western Balkans are some of the most ethnically and nationally diverse states in Europe, leading to problems with the
-definition and legitimacy of the state in several Western Balkan states.
+2. The Western Balkans are some of the most ethnically and nationally diverse states in Europe, leading to problems with the definition and legitimacy of the state.
 
 3. The violent and slow breakup of Yugoslavia may have left a permeant scar on the political institutions of the region
