@@ -98,7 +98,7 @@ networks, and provide humanitarian assistance and disaster relief.
 1. What conditions are required for a successful counterinsurgency?
 --
 
-2. Are COIN objectives — force protection, distinguishing between combatants & noncombatants, & destroying insurgents —  incompatible?
+2. Are COIN objectives - force protection, distinguishing between combatants & noncombatants, & destroying insurgents - incompatible?
 
 --
 
