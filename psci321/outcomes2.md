@@ -53,25 +53,25 @@ class: center, middle
 ## Yeltsin's Power Play & the Rise of the Oligarchs
 
 1. To bypass parliament, Yeltsin starting issuing many of his reforms by decree but he still faced well organized opposition.
---
+
 2. In the Fall of 1993, a constitutional crisis errupted where Yeltsin called out the tanks and shelled a communist Parliament.
---
+
 3. High-ranking ofﬁcials in the nomenklatura quietly liquidated the assets of their organizations and created investment banks.
---
+
 4. Despite the stagnant economy and unsuccessful war in Chechnya, Yeltsin was re-elected in 1996 thanks to newly enriched oligarchs.
 
 ---
 
 ## Economic Collapse and the Rise of Putin
---
+
 1. The collapse of oil and other commodity prices in 1998 hit Russia especially hard and triggered a new ﬁnancial crisis.
---
+
 1. Russia  recovered when oil prices skyrocketed in 1999, but the damage to Yeltsin and his circle of advisors was permanent.
---
+
 3. Yeltsin selected an unknown former foreign intelligence ofﬁcer Vladimir Putin to be his PM.
---
+
 1. Putin quickly demonstrated he was a capable leader by launching a successful second war in Chechnya after a black-flag operation.
---
+
 2. Putin backers won a majority in the Parliamentary elections of 1999 and Yeltsin resigned which made Putin acting president.
 
 ---
