@@ -58,16 +58,17 @@ class: center, middle
 
 ## 2014 Quadrennial Defense Review
 
-> Protect the homeland, to deter and defeat attacks on the United States and to support civil authorities in mitigating the effects of potential attacks and natural disasters.
+> "Protect the homeland, to deter and defeat attacks on the United States and to support civil authorities in mitigating the effects of potential attacks and natural disasters.
 
 > Build security globally, in order to preserve regional stability, deter adversaries, support allies and partners, and cooperate with others to address common security challenges.
+
 > Project power and win decisively, to defeat aggression, disrupt and destroy terrorist
-networks, and provide humanitarian assistance and disaster relief. 
+networks, and provide humanitarian assistance and disaster relief."
 
 ---
 ## 2014 Quadrennial Defense Review
 
-> If deterrence fails at any given time, U.S. forces will be capable of defeating a regional adversary in a large-scale multi-phased campaign, and denying the objectives of – or imposing unacceptable costs on – a second aggressor in another region. 
+> "If deterrence fails at any given time, U.S. forces will be capable of defeating a regional adversary in a large-scale multi-phased campaign, and denying the objectives of – or imposing unacceptable costs on – a second aggressor in another region."
 
 ---
 
