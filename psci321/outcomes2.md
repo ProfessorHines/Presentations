@@ -12,8 +12,11 @@ class: center, middle
 ## Learning Objectives
 
 * Explain the foreign and domestic policies of Eastern European states.
+
 * Summarize the development of postcommunist Russia under Yeltsin.
+
 * Explain Putinism and its consequences.
+
 * Evaluate future trajectories for Russian political development.
 
 ---
@@ -21,7 +24,9 @@ class: center, middle
 ## Eastern Europe
 
 1. Romania, Bulgaria, Belarus, Ukraine, and Moldova had the most varied success during their transitions.
+
 2. Romania and Bulgaria joined the EU, Belarus remains unreformed, Ukraine has been choatic, and Moldova is Europe's poorest country.
+
 3. A Western orientation and suport form the West explains much of the difference between these states.
 
 ---
@@ -43,34 +48,38 @@ class: center, middle
 
 3. Llife expectancy declined, with Russian men having the lowest life expectancy outside of sub-Saharan Africa.
 
---
+---
 
 ## Yeltsin's Power Play & the Rise of the Oligarchs
 
 1. To bypass parliament, Yeltsin starting issuing many of his reforms by decree but he still faced well organized opposition.
-
+--
 2. In the Fall of 1993, a constitutional crisis errupted where Yeltsin called out the tanks and shelled a communist Parliament.
-
+--
 3. High-ranking ofﬁcials in the nomenklatura quietly liquidated the assets of their organizations and created investment banks.
-
+--
 4. Despite the stagnant economy and unsuccessful war in Chechnya, Yeltsin was re-elected in 1996 thanks to newly enriched oligarchs.
 
 ---
 
 ## Economic Collapse and the Rise of Putin
-
+--
 1. The collapse of oil and other commodity prices in 1998 hit Russia especially hard and triggered a new ﬁnancial crisis.
-
+--
 1. Russia  recovered when oil prices skyrocketed in 1999, but the damage to Yeltsin and his circle of advisors was permanent.
-
+--
 3. Yeltsin selected an unknown former foreign intelligence ofﬁcer Vladimir Putin to be his PM.
-
+--
 1. Putin quickly demonstrated he was a capable leader by launching a successful second war in Chechnya after a black-flag operation.
-
+--
 2. Putin backers won a majority in the Parliamentary elections of 1999 and Yeltsin resigned which made Putin acting president.
+
+---
 
 ## Putinism: Differences from Yeltsin
 
 1. Putin has moved to eliminate or co-opt all potential rivals including the Communist party, regional governors, and the oligarchs.
+
 2. Putin has attempted to keep corruption out of sight of the average Russian.
-3. He is willing to use the powers for the state to further his ambitions and has demonstrated his capacity to do so effectively.
+
+4.  He is willing to use the powers for the state to further his ambitions and has demonstrated his capacity to do so effectively.
