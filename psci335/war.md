@@ -59,18 +59,33 @@ class: center, middle
 ## Rate the effectiveness, efficiency, and legitimacy of different types of covert action.
 
 1. What factors should presidents use when evaluating the use of covert action?
+--
+
 2. What factors should presidents use when selecting between the alternative methods of covert action?
+--
+
 3. What are the domestic and foreign consequences of of using covert action?
+--
+
 4. What kind of oversight is appropriate for covert actions by the United States?
-5. Which of the five forms of covert action do you think is best?
+--
+
+> Which of the five forms of covert action do you think is best?
 
 ---
 
 ## Assess the capabilities of the U.S. military to engage in counterinsurgency warfare.
 
 1. What conditions are required for a successful counterinsurgency?
-2. Are the objectives of COIN — force protection, distinguishing between combatants & noncombatants, and destroying insurgents — really incompatible?
+--
+
+2. Are COIN objectives — force protection, distinguishing between combatants & noncombatants, & destroying insurgents —  incompatible?
+--
+
 3. How has the rapid development of drone technology changed COIN operations?
+--
+
 4. What are the moral arguments in favor and against the use of drones?
+--
 
 > Vote: Is America prepared for the asymmetrical warfare like COIN?
