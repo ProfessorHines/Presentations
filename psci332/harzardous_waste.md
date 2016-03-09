@@ -2,13 +2,14 @@ class: center, middle
 
 # Development of Environmental Regimes: Hazardous Waste
 
---
+---
 
-## Summar
+## Summary
 
 >Hazardous waste is discarded materials that pose a threat to human health and the natural environment. Since the exact amount and kind of hazardous waste that constitutes a toxic threat to the global environment is debated, a variety of different regimes have developed to address this issue. The purpose of this lecture is to review how regimes mature using the different hazardous waste regimes as case studies.
 
 ---
+
 ## Learning Objectives
 
 * Outline the development chronology of the hazardous waste and toxic chemicals regimes. 
@@ -41,4 +42,4 @@ class: center, middle
 
 ---
 
-!(https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Map_of_Stockholm_Convention_on_Persistent_Organic_Pollutants.svg/1280px-Map_of_Stockholm_Convention_on_Persistent_Organic_Pollutants.svg.png)
+![Stockholm Convention](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Map_of_Stockholm_Convention_on_Persistent_Organic_Pollutants.svg/1280px-Map_of_Stockholm_Convention_on_Persistent_Organic_Pollutants.svg.png)
