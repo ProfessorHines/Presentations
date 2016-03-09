@@ -1,0 +1,36 @@
+@import url(https://fonts.googleapis.com/css?family=Questrial);
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+
+.remark-slide-content { background: linear-gradient( rgba(255, 255, 255, 0.9),rgba(255, 255, 255, 0.9)), 
+      url(http://orig12.deviantart.net/a939/f/2011/231/0/1/united_states_usa_flag_by_think0-d4759zm.jpg); }
+
+body {
+  font-family: 'Questrial';
+  line-height: 1.4;
+  background: #000;
+  
+}
+
+h1, h2, h3 {
+  font-family: 'Montserrat';
+  font-weight: normal;
+  margin-bottom: 0;
+}
+
+.remark-slide-content h1 { font-size: 4em; }
+.remark-slide-content h2 { font-size: 2em; 
+                          background-color: #FFCC00; 
+                          paddding-left: 50px;
+}
+.remark-slide-content h3 { font-size: 1.5em; }
+
+.remark-slide-content li { font-size: 1.6em; }
+
+blockquote {
+  padding: 0 15px;
+  color: #000;
+  border-left: 10px solid #000;
+  font-size: 1.5em;
+  background-color: #d3d3d3;
+  margin-left: 20px;
+}
