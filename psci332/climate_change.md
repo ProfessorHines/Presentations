@@ -28,7 +28,7 @@ class: center, middle
 
 ---
 
-## Rregime’s major statements of norms do not provide sufficient promotion, assistance, monitoring, or enforcement for the regime to be effective.
+## Regime’s major statements of norms do not provide sufficient promotion, assistance, monitoring, or enforcement for the regime to be effective.
 
 1. The regime’s major norms are developed in the UN Framework Convention on Climate Change (UNFCCC), the Kyoto Protocol, the Copenhagen Accord, and Durban Platform.
 2. The UNFCC large only establishes the regime’s purpose and establishes a secretariat and set of regular conferences to discuss how to achieve that purpose (weak promotional).
