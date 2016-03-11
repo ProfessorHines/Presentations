@@ -23,32 +23,39 @@ class: center, middle
 ## Distribution of emissions and the consequence
 
 1. Nearly three-quarters of global emissions are the result of seven actors: China, the United States, the European Union, India, the Russian Federation, Japan, and Canada.
+
 2. Any international agreement that fails to include the cooperation of these seven actors will fail to address the problem due to defection and distribution problems.
+
 3. Since the consequences are not just limited to these seven actors,all states will suffer must be a part of the solution (i.e., common but differentiated responsibility).
 
 ---
 
-## Regime’s major statements of norms do not provide sufficient promotion, assistance, monitoring, or enforcement for the regime to be effective.
+## Insufficient promotion, assistance, monitoring, and enforcement
 
-1. The regime’s major norms are developed in the UN Framework Convention on Climate Change (UNFCCC), the Kyoto Protocol, the Copenhagen Accord, and Durban Platform.
-2. The UNFCC large only establishes the regime’s purpose and establishes a secretariat and set of regular conferences to discuss how to achieve that purpose (weak promotional).
-3. The regime’s purpose is to “stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic interference with the climate system". 
-4. The Kyoto Protocol firmly established the principle of "common but differentiated  responsibility" which was defined then as emission cuts only from developed countries.
+2. The UNFCC only establishes the regime’s purpose and establishes a secretariat and set of regular conference.
 
----
+> “stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic interference with the climate system". 
 
-5. The Copenhagen Accord, a last minute voluntary statement agreed in 2010, reaffirmed the goal of the climate regime as preventing more than a 2 degree Celsius increase.
-6. The Durban Platform was an agreement by states party to the Kyoto protocol that in the absence of a replacement, they would voluntary continue to follow the expired  treaty.
-7. The Durban platform as called for all states to reduce emissions for the first time in a new protocol, a norm that has been embraced by the COP after the last conference.
-8. The United States, China, and India were the main blocking or veto states that had refused to accept specific and mandatory emissions cuts in previous negotiations.
-9. After years of failure, a tactical shift was made to ask states to provide ab "Intended Nationally Determined Contribution"
+2. The Kyoto Protocol firmly established the principle of "common but differentiated responsibility" (Annex I and II)
+
+3.The Copenhagen Accord reaffirmed the goal and the idea that indecision at the conference should not be used for inaction.
+
+--
+
+4. The Durban Platform was a voluntary agreement to keep Kyoto protocol in place until replaced, which anchored discussion.
+
+7. The Durban platform also called for all states to reduce emissions for the first time.
+
+8. To overcome veto states of United States, China, and India, a tactical shift was made to ask states to provide an "Intended Nationally Determined Contribution."
+
+9. Paris Agreement is based on INDCs and voluntaru compliance to acheive. Also shifts basline to 1.5 degrees.
 
 ---
 
 ## Unresolved issues
 
 1. No enforcement mechanism
-2. Lack of capacity .
+2. Lack of capacity.
 3. Funding is inadequte.
 
 ---
