@@ -34,8 +34,6 @@ class: center, middle
 
 2. The UNFCC only establishes the regime’s purpose and establishes a secretariat and set of regular conference.
 
-> “stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic interference with the climate system". 
-
 2. The Kyoto Protocol firmly established the principle of "common but differentiated responsibility" (Annex I and II)
 
 3.The Copenhagen Accord reaffirmed the goal and the idea that indecision at the conference should not be used for inaction.
@@ -55,27 +53,7 @@ class: center, middle
 ## Unresolved issues
 
 1. No enforcement mechanism
+
 2. Lack of capacity.
-3. Funding is inadequte.
 
----
-
-As a result of these problems, many other international actors have begun to look for alternative institutions and funding mechanisms for addressing climate change.
-Some see this as a positive sign of the flexibility of global governance, while others see this as a dangerous development that minimizes the urgency of global action.
-While closer to resolution than before, there continues to be tension over how to interpret the principle of "common but differentiated responsibilities."
-Ultimately, CFR's regime analysis found several strengths and weakness in the regime stemming from these issues.
-Although not without controversy, the regime is its strongest at providing information about the threat of climate change thanks to the efforts of the IPCC.
-The disconnect between commitments & action, exacerbated by politics and capacity, continue to make longterm effective action on climate change uncertain.
-The Clean Development Mechanism, UNREDD, and market efforts like the EU's cap and trade system are working, but remain ineffective and inefficient.
-Monitoring and enforcing emissions curbs remains troubling as only developed states report emissions annually and the enforcement mechanism in Kyoto is meaningless.
-The Green Climate Fund is inadequate and the regime needs to develop concrete alternatives that states can reliably use to address the $5 trillion price tag of mitigation.
-While there has been some success addressing deforestation, the regime currently does not adequately address using natural carbon sinks.
-No one has really bought into the ideas that ecological modernization or sustainable development could produce a low-carbon economy because there is no model.
-Most serious, in my opinion, is the failure of the regime to address its own recognition that we can no longer just mitigate the affects of climate change and we must adapt.
-Given these challenges, Stewart M. Patrick, director of CFR's program on international institutions and global governance provided some potential solutions to these issues.
-The CDM could be reformed so that is focuses only on development that would not have happened anyway ("additionally") and the least developed states.
-He also advised the U.S. had to take some action through regulatory action to allow a 2020 agreement to be reached, which has actually begun to happen.
-The climate change regime needs to build a credible institution or institutions for measuring, reporting, and verifying global emissions and emissions-cutting efforts.
-The major international financial institutions (aka Bretton Woods) need to be reformed to focus on and develop expertise in low-carbon development.
-International development needs to move from a focus on carbon offsets for developed states to a focus on low-carbon development in developing states.
-Climate change should be added to the agenda of other international forums like the Security Council and most importantly, the G-20, which is the main economic forum.
+3. Funding is inadequte
